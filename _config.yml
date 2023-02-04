@@ -1,12 +1,13 @@
 # Site settings
 title: 
-email: 
+email: hello@ghostlabs.studio
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "ghostlabs.studio" # the base hostname & protocol for your site
 
+instagram_username: "ghostlabs.studio"
 twitter_username:
-github_username:
+github_username: "ghostlabsstudio"
 
 # Build settings
 markdown: kramdown
